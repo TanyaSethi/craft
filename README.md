@@ -4,6 +4,4 @@ This application is aimed to create a user profile (name, mobile, email), fetch 
 It uses an in memory datastore (h2) as a temporary store, for storing user profiles.
 
 
-Controller -> Model -> Services -> Entities   
-                                     | 
-                                  Database 
+Controller -> Model -> Services -> Entities -> Database 
